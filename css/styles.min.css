@@ -2157,7 +2157,15 @@ td.visible-print,th.visible-print{display:table-cell!important}
 .sr-only-focusable:active,.sr-only-focusable:focus{position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto}
 a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font:inherit;vertical-align:baseline}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
-body{line-height:1}
+body{line-height:1;background:url(../images/bcg.gif);font-size:16px}
 blockquote,q{quotes:none}
 blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
+p{line-height:1.25em;font-size:1.125em}
+h1,h2,h3{margin-top:.67em;margin-bottom:.67em}
+h1{font-size:2.375em}
+h2{font-size:2em}
+h3{font-size:1.675em}
+h4{font-size:1.3em;margin-top:.37em;margin-bottom:.37em}
+ul{list-style-type:disc;padding-left:30px}
+.content-wrap{background:#fff;margin-top:75px;padding:25px}
